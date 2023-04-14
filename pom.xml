@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>dharma-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>dharma-web-application</finalName>
 		
 		<plugins>
 			<plugin>
